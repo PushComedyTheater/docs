@@ -2,5 +2,5 @@
 
 ## Project \(Repo\) Docs
 
-* [Introduction](index.md)
-* [Ironboard](projects/ironboard/README.md)
+* [Introduction](README.md)
+* [Terminology](terminology.md)
